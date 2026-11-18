@@ -1,0 +1,10 @@
+/build/
+/kompilator
+/maszyna-wirtualna
+/maszyna-wirtualna-cln
+/.vscode/
+/.idea/
+.DS_Store
+*.swp
+*.swo
+*~
